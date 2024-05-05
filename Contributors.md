@@ -1,5 +1,6 @@
 # Contributors
 - [Aditya] (https://github.com/Aditya41150) open source here i come
+- [TC](https://github.com/Alittlehorse2) hi :)
 - [Ajay Yadav](https://github.com/ATechAjay), contribute to this repo;)
 - [Athifal] (https://github.com/athifal) Lets go...
 - [Mayank Pal] (https://github.com/MayankP2100) Here starts my open-source journey!!
